@@ -1,22 +1,29 @@
 <div align="center">
-  <h1>👋 Hi, I'm Manoj Singh!</h1>
-  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" alt="Manoj Singh" width="150">
+  <h1>Hey there 👋, I'm Manoj Singh</h1>
+  <p>
+    🚀 Full-Stack Developer (MERN) | 🤖 AI/ML Explorer | 🎨 Interactive Web Builder
+  </p>
+
+  <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="140" alt="coding gif" />
 </div>
 
+<br/>
+
 <p align="center">
-  👨‍💻 <strong>Full-Stack Developer | AI/ML Enthusiast | Interactive Web Creator</strong> 🌐
+  I love building <strong>clean, scalable, and interactive web applications</strong> that solve real-world problems.
 </p>
 
 <p align="center">
-  👀 I'm passionate about learning new technologies and exploring innovative ideas.
+  Currently strengthening my skills in <strong>React, Node.js, MongoDB</strong>  
+  while exploring <strong>AI/ML</strong> to create smarter products.
 </p>
 
 <p align="center">
-  🌱 Currently diving deep into the <strong>MERN</strong> stack to enhance my development skills.
+  Always curious, always learning — from web performance to system design and intelligent systems.
 </p>
 
 <p align="center">
-  💞️ Eager to collaborate on exciting web development projects, especially those leveraging full-stack and AI/ML technologies!
+  🤝 Open to collaboration on <strong>Full-Stack, SaaS, and AI-driven projects</strong>
 </p>
 
 <p align="center">
