@@ -1,106 +1,68 @@
 <div align="center">
   <h1>Hey there 👋, I'm Manoj Singh</h1>
   <p>
-    🚀 Full-Stack Developer (MERN) | 🤖 AI/ML Explorer | 🎨 Interactive Web Builder
+    🚀 <b>Full-Stack Developer (MERN)</b> | 🤖 <b>AI/ML Explorer</b> | 🎨 <b>Creative Technologist</b>
   </p>
-
   <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="140" alt="coding gif" />
 </div>
 
----
+<br/>
 
-<p align="center">
-  I build <strong>clean, scalable, and interactive web applications</strong> that solve real-world problems.
-</p>
+## 💫 About Me
 
-<p align="center">
-  Passionate about <strong>modern web technologies</strong>, <strong>system thinking</strong>, and <strong>intelligent applications</strong>.
-</p>
+I’m a developer who lives at the intersection of **clean code**, **scalable systems**, and **interactive design**.  
+I specialize in building **production-ready MERN stack applications** and am steadily expanding into **AI/ML & intelligent systems** to build smarter, future-focused products.
 
----
-
-## 🧠 About Me
-
-- 💻 Full-stack developer with a strong foundation in **JavaScript & MERN**
-- 🎯 Love creating **interactive UI, animations, and smooth UX**
-- 🤖 Exploring **AI/ML & NLP** to build smarter products
-- 🧪 Curious about **SaaS architecture, APIs, and system design**
-- 🤝 Open to collaboration on **Full-Stack, SaaS & AI-driven projects**
+- 🔭 Currently building **AI-driven SaaS & API-based platforms**
+- 🌱 Learning **System Design, Docker, and Backend Scalability**
+- 👯 Open to collaborating on **Open Source, MERN & AI projects**
+- 💬 Ask me about **React, Backend APIs, Animations, or Python**
+- ⚡ Fun fact: I treat bugs as puzzles — frustrating, but deeply satisfying to solve 😄
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 🛠 Tech Stack & Skills
 
-### 🚀 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss" />
-</p>
-
-### 🧩 Backend
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/MongoDB-023430?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
-</p>
-
-### 🤖 AI / ML (Learning & Exploring)
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge" />
-</p>
-
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel" />
-</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-593d88?style=flat&logo=redux&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![GSAP](https://img.shields.io/badge/GSAP-0ae448?style=flat&logo=greensock&logoColor=black) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat&logo=express&logoColor=61DAFB) ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=firebase) |
+| **AI / ML** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
+| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
+| **Cloud & Hosting** | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat) |
+| **Other Skills** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![API Design](https://img.shields.io/badge/API_Design-4CAF50?style=flat) ![Problem Solving](https://img.shields.io/badge/Problem_Solving-2196F3?style=flat) |
 
 ---
 
-## 📌 Currently Focused On
+## 🎯 Current Focus
 
-- ⚙️ Advanced **MERN stack & TypeScript**
-- 🧠 **AI/ML-based projects** (NLP, recommendation systems)
-- 🧩 Building **SaaS-style applications**
-- 🎨 Interactive UI & animation-heavy web experiences
+- 🚀 Building **scalable MERN & SaaS projects**
+- 🐳 Containerizing apps with **Docker**
+- 🧠 Applying **AI/ML concepts** to real-world use cases
+- ⚙️ Improving **backend performance & architecture**
 
 ---
 
-## 📫 Let’s Connect
+## 🤝 Let’s Connect
 
-<p align="center">
-  <a href="https://github.com/manojsingh00963" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github" />
+<p align="left">
+  <a href="https://github.com/manojsingh00963">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/manoj-singh-4a4131280/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/manoj-singh-4a4131280/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:manojsingh00963@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/the_coderror404/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" />
+  <a href="https://www.instagram.com/the_coderror404/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://x.com/manojsingh10101" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" />
+  <a href="https://x.com/manojsingh10101">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </p>
-
----
-
-## 😄 Fun Side
-
-- 😄 Pronouns: **He / Him (Mani)**
-- ⚡ Fun fact: I love solving complex problems, cracking jokes, and taking on challenges that push my limits.
 
 ---
 
